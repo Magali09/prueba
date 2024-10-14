@@ -1,0 +1,1 @@
+#el init sirve para inicializar el proyecto
